@@ -1,8 +1,7 @@
-package cli
+package beers
 
 import (
 	"fmt"
-
 	"github.com/spf13/cobra"
 )
 
